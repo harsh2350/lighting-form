@@ -1,0 +1,159 @@
+body {
+    background-color: black;
+}
+
+#main {
+    width: 400px;
+    height: 650px;
+    background-color: black;
+    margin-left: 600px;
+    padding-top: 0px;
+    margin-top: 50px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 40px 0px aqua;
+}
+
+#main:hover {
+    animation: animate 1s linear infinite;
+}
+
+@keyframes animate {
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+#inp1 {
+    width: 300px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    box-shadow: 0px 2px 0px 0px white;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+
+}
+
+#inp2 {
+    width: 300px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    box-shadow: 0px 2px 0px 0px white;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+#inp3 {
+    width: 300px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    box-shadow: 0px 2px 0px 0px white;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+#inp4 {
+    width: 300px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    box-shadow: 0px 2px 0px 0px white;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+#inp6 {
+    width: 300px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    box-shadow: 0px 2px 0px 0px white;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+#inp7 {
+    width: 300px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    box-shadow: 0px 2px 0px 0px white;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+
+#btn {
+    width: 120px;
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 140px;
+    border-radius: 30px;
+    background-color: aqua;
+}
+
+#head {
+    color: white;
+    margin-left: 150px;
+}
+
+#pname {
+    color: white;
+    margin-left: 40px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+#check {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+#rem {
+    color: white;
+    font-size: 20px;
+}
+
+#sign {
+    color: white;
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#h {
+    color: blue;
+}
+

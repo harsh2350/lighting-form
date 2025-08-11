@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+#header {
+    width: 1530px;
+    height: 50px;
+    color: white;
+
+}
+
+#cont {
+    width: 500px;
+    height: 470px;
+    margin-left: 520px;
+    margin-top: 90px;
+    text-align: center;
+    padding-top: 5px;
+    box-shadow: 2px 2px 50px 0px aqua;
+    color: white;
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+#cont:hover {
+    animation: animate 1s linear infinite;
+}
+
+@keyframes animate {
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+
+#photo-img{
+width: 90px;
+height: 90px;
+border-radius: 100%;
+}
+
+#hdiv{
+    width: 100px;
+    height: 50px;
+    padding-top: 6px;
+    float: right;
+    margin-right: 30px;
+    font-size: 30px;
+
+}
+
+#log{
+    color: white;
+}
